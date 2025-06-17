@@ -6,7 +6,7 @@ Full stack engineer, Elixir enthousiast. Learning about distributed systems Foun
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dealloc&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dealloc&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dealloc&layout=compact&hide_border=true&&langs_count=8&hide=java,html" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dealloc" alt="Github Streaks" />
